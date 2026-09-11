@@ -1,4 +1,3 @@
-# PRT monthly data
 # Pittsburgh Regional Transit Ridership Recovery Analysis – Proposal
 
 **Jillian MacIntire**
